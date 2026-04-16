@@ -1,0 +1,11 @@
+{
+  "name": "Bitcoin",
+  "website": "",
+  "description": "Bitcoin-pegged BEP-20 token on BNB Smart Chain",
+  "explorer": "https://bscscan.com/token/0x0f477c7a252096914b90bD414a4Bc8781c00bFEf",
+  "type": "BEP20",
+  "symbol": "BTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0f477c7a252096914b90bD414a4Bc8781c00bFEf"
+}
